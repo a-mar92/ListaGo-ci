@@ -1,0 +1,3 @@
+Aplikacja, która zapisuje listę gości, wyświetla produkty które wybrali, oraz pomaga odnaleźć gościa po numerze telefonu. 
+W aplikacji zostały urzyte kolekcje Set, List oraz HashMap. 
+Aplikacja stworzona w celu nauki programowania obiektowego oraz w celu poznania pracy kolekcji 
